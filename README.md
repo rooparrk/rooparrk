@@ -1,40 +1,29 @@
 # Roopa Kaustubha Rayudu
 
-**Financial Crime Analytics · AML & Transaction Risk · Singapore**
+**Financial Systems Intelligence · Risk & Data Analytics · Singapore**
 
 ---
 
-I study how hidden financial structures operate — tracing ownership networks, transaction
-flows, and the behavioral logic behind how value moves through opaque systems.
+I study how hidden financial structures operate — using data to trace ownership networks, cross-border transaction flows, and the behavioral anomalies that emerge across complex financial systems.
 
-MSc IT in Business (Financial Technology & Analytics) at Singapore Management University.
-My work sits at the intersection of analytical rigour and regulatory depth: AML typologies,
-transaction risk, ownership network analysis, and FATF and MAS regulatory frameworks.
+Currently pursuing an MSc in IT in Business (Financial Technology & Analytics track) at Singapore Management University (SMU), my work bridges rigorous quantitative methodology with deep regulatory and compliance infrastructure.
 
 ---
 
-### Independent Projects
+### Flagship Analytical Architecture
 
-| # | Project | Focus | Stack |
-|---|---------|-------|-------|
-| 01 | [Art Markets & the PEP Problem] | PEP network analysis · High-value asset laundering · ICIJ data | R · Tableau |
-| 02 | [Trade-Based Money Laundering] | Mirror trade discrepancy analysis · MAS Notice 626 corridors | Python · UN Comtrade |
-| 03 | [Crypto & Financial Crime] | On-chain analytics · Virtual asset regulation · FATF guidance | Python · Etherscan |
-
-Full outputs published at (https://roo-s-observatory.vercel.app) as they are completed.
+| Project | Core Technical Focus | Domain / Application | Engineering Stack |
+|:-----------------|:-----------------|:-----------------|:-----------------|
+| 01 · [Network Graph Analytics](https://roo-s-observatory.vercel.app/projects/art-pep/) | Entity Resolution & Centrality Modeling | Opaque Corporate Ownership Structures | R · igraph · Tableau |
+| 02 · [Bilateral Data Pipelines](https://roo-s-observatory.vercel.app/projects/tbml/) | Quantitative Anomaly Detection Engine | Trade-Based Asymmetries (MAS Notice 626) | Python · Pandas · UN Comtrade |
+| 03 · [On-Chain Data Intelligence](https://roo-s-observatory.vercel.app/projects/crypto/) | Transaction Flow Ledger Tracing | Digital Asset Ecosystem Cryptography | Python · Etherscan · Elliptic |
 
 ---
 
-### Credentials
+### Core Instruments & Credentials
 
-- **ICA Certificate in KYC & Customer Due Diligence** — International Compliance Association
-- **M5 · M9 · M9A** — Monetary Authority of Singapore
-- **MSc MITB, Financial Technology & Analytics** — Singapore Management University
-- **BBA, Business Administration** — IBS Hyderabad
-
-**Domain:** AML Typologies · KYC / CDD · Transaction Risk · Network Analysis · Regulatory Compliance
-
-**Tools:** Python · SQL · R · Tableau · Pandas · Git
+-   **Domain & Governance:** Transaction Risk Systems · Analytical Topology · Customer Due Diligence (ICA Certified) · Capital Markets Infrastructure (MAS M5, M9, M9A)
+-   **Engineering Tools:** Python (Pandas, NumPy) · SQL (Complex Joins, Window Functions) · R · Git Version Control · Tableau Analytics
 
 ---
 
