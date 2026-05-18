@@ -14,9 +14,9 @@ Currently pursuing an MSc in IT in Business (Financial Technology & Analytics tr
 
 | Project | Core Technical Focus | Domain / Application | Engineering Stack |
 |:-----------------|:-----------------|:-----------------|:-----------------|
-| 01 · [Network Graph Analytics](https://roo-s-observatory.vercel.app/projects/art-pep/) | Entity Resolution & Centrality Modeling | Opaque Corporate Ownership Structures | R · igraph · Tableau |
-| 02 · [Bilateral Data Pipelines](https://roo-s-observatory.vercel.app/projects/tbml/) | Quantitative Anomaly Detection Engine | Trade-Based Asymmetries (MAS Notice 626) | Python · Pandas · UN Comtrade |
-| 03 · [On-Chain Data Intelligence](https://roo-s-observatory.vercel.app/projects/crypto/) | Transaction Flow Ledger Tracing | Digital Asset Ecosystem Cryptography | Python · Etherscan · Elliptic |
+| 01 · [Network Graph Analytics](https://roo-s-observatory.vercel.app/projects/art-pep/art-pep-index.html) | Entity Resolution & Centrality Modeling | Opaque Corporate Ownership Structures | R · igraph · Tableau |
+| 02 · [Bilateral Data Pipelines](https://roo-s-observatory.vercel.app/projects/tbml/tbml-index.html) | Quantitative Anomaly Detection Engine | Trade-Based Asymmetries (MAS Notice 626) | Python · Pandas · UN Comtrade |
+| 03 · [On-Chain Data Intelligence](https://roo-s-observatory.vercel.app/projects/tbml/tbml-index.html) | Transaction Flow Ledger Tracing | Digital Asset Ecosystem Cryptography | Python · Etherscan · Elliptic |
 
 ---
 
